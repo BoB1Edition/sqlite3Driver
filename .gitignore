@@ -16,3 +16,4 @@
 sqlite3Driver
 sqlite3
 .vscode/*
+test_orig.db
